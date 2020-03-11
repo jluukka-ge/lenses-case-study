@@ -1,0 +1,22 @@
+{
+  "name": "2019-09-11_lenses",
+  "version": "1.0.0",
+  "description": "TampereJS presentation on lenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha './src/**/*.test.js'"
+  },
+  "keywords": [
+    "property-access",
+    "lenses",
+    "decoupling",
+    "functional-programming"
+  ],
+  "author": "Joel Luukka",
+  "license": "UNLICENCED",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  }
+}
