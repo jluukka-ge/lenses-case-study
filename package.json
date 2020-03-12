@@ -13,7 +13,7 @@
     "functional-programming"
   ],
   "author": "Joel Luukka",
-  "license": "UNLICENCED",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
